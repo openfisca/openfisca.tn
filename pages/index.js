@@ -8,7 +8,7 @@ import Footer from "../components/Footer"
 const Home = () => (
     <div id="content">
         <div id="index-body">
-            <h2>Des outils à votre disposition  🇹🇳  مجموعة من الأدوات عبر الإنترنت</h2>
+            <h2>Des outils à votre disposition  🇹🇳  لكم مجموعة من الأدوات</h2>
             <ul className="flex-container">
                 <li className="flex-item">
                     <h3>Legislation Explorer</h3>
